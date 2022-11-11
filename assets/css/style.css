@@ -7,6 +7,10 @@
     box-sizing: border-box;
      */
   }
+
+  h2 {
+    
+  }
   
   body {
     font-family: Arial, Helvetica, sans-serif;
@@ -15,7 +19,7 @@
         rgba(255, 255, 255, 0),
         rgba(255, 255, 255, 0)
       ),
-      url("../images/purple.jpg");
+      url("../images/Movie-Theater-Near-Ne-696x463.jpg");
     background-size: cover;
     background-attachment: fixed;
   }
